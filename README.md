@@ -1,6 +1,6 @@
 ## 1	Welcome to the Data Engineer Assessment .
 
-Purpose is to provide us an assessment of your current skills, which is just another variable to be consider in the overall process interview.
+Purpose is to provide us an assessment of your current skills, which is just another variable to be consider in the overall interview process.
 
 ### 1.1	OBJECTIVE:
 You are responsible to perform a task for the customer company Wide World Importers, the objective is to 
