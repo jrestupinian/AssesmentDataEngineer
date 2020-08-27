@@ -3,11 +3,12 @@
 Purpose is to provide us an assessment of your current skills, which is just another variable to be consider in the overall process interview.
 
 ### 1.1	OBJECTIVE:
-* You are responsible to perform a task for the customer company Wide World Importers, the objective is to replicate the invoice report provided by client, with the data in their On-Line Transaction Processing (OLTP) database WideWorldImporters.
+You are responsible to perform a task for the customer company Wide World Importers, the objective is to 
+* Replicate the **invoice report** provided by client, with the data in their On-Line Transaction Processing (OLTP) database named WideWorldImporters.
 * Secondary objective: Perform a quick check up, that the invoice amounts in the invoice report have been correctly exported to their data warehouse (WideWorldImportersDW)
 
 Invoice report description given by the customer:
-“The invoice report shows all the Supplier Invoice transaction type, in a given date range, this Supplier In-voices, are enriched with the Purchase Order information and their respective lines, is very useful since al-so provides relevant information about the Supplier and the Stock Items” 
+> “The invoice report shows all the Supplier Invoice transaction type, in a given date range, Supplier Invoices are enriched with the Purchase Order information and their respective lines, is very useful since also provides relevant information about the Supplier and the Stock Items” 
 
 ### 1.2	WALKTHROUGH
 Once you have read and understand the objective and the customer requirement
