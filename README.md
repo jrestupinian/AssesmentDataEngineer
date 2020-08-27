@@ -4,7 +4,7 @@ Purpose is to provide us an assessment of your current skills, which is just ano
 
 ### 1.1	OBJECTIVE:
 You are responsible to perform a task for the customer company Wide World Importers, the objective is to replicate the invoice report provided by client, with the data in their On-Line Transaction Processing (OLTP) database WideWorldImporters
-Secondary objective: Compare the results with their Data warehouse database (WideWorldImportersDW) in order to attest that the Extraction, Transformation and Load (ETL) process is working properly.
+Secondary objective: Perform a quick check up, that the invoice amounts in the invoice report have been correctly exported to their data warehouse (WideWorldImportersDW)
 
 Invoice report description given by the customer:
 “The invoice report shows all the Supplier Invoice transaction type, in a given date range, this Supplier In-voices, are enriched with the Purchase Order information and their respective lines, is very useful since al-so provides relevant information about the Supplier and the Stock Items” 
